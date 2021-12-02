@@ -9,5 +9,6 @@
 <body>	
 	<h1>index.jsp - by teacher</h1>
 	강사가 추가한 내용
+	승민이가 추가한 내용
 </body>
 </html>
