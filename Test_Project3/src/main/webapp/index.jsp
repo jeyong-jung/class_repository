@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>	
-	<h1>index.jsp - jeyong</h1>
+	<h1>index.jsp - by teacher</h1>
 </body>
 </html>
